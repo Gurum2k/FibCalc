@@ -64,7 +64,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           cache-from: type=registry,ref=docker.io/patryg/fibcalc:cache
-          cache-to: type=registry,ref=docker.io/patryg/fibcalc:cache
+          cache-to: type=registry,ref=docker.io/patryg/fibcalc:cache,mode=max
           platforms: linux/amd64,linux/arm64
           context: .
           push: true

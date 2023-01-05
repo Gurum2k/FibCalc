@@ -65,7 +65,7 @@ jobs:
         with:
           cache-from: type=registry,ref=docker.io/patryg/fibcalc:cache
           cache-to: type=registry,ref=docker.io/patryg/fibcalc:cache
-          platforms: linux/amd64
+          platforms: linux/amd64,linux/arm64
           context: .
           push: true
           file: Dockerfile

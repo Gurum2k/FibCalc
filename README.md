@@ -7,4 +7,4 @@ Linki do repozytorium:<br />
 ghcr.io:<br />
 https://github.com/gurum2k/FibCalc/pkgs/container/fibcalc<br />
 Docker Hub cache:<br />
-https://hub.docker.com/repository/docker/patryg/fibcalc<br />
+https://hub.docker.com/r/patryg/fibcalc<br />

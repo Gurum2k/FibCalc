@@ -8,3 +8,6 @@ ghcr.io:<br />
 https://github.com/gurum2k/FibCalc/pkgs/container/fibcalc<br />
 Docker Hub cache:<br />
 https://hub.docker.com/r/patryg/fibcalc<br />
+
+Grzywacz Patryk
+Gr. 2
